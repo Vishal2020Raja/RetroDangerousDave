@@ -1,3 +1,3 @@
 # project--ES102
 
-ignore bg.png - it is not used
+ignore bg.jpg - it is not used
